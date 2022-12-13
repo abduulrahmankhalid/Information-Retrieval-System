@@ -25,5 +25,6 @@
 
 5. Rank documents based on cosine similarity.
 
-## Output : Matched Documents from Postional Index Phrase Query , Ranked by Cosine Similarity.
+## Output :
+Matched Documents from Postional Index Phrase Query , Ranked by Cosine Similarity.
 ![image](https://user-images.githubusercontent.com/76521677/207454996-63f26919-4d0b-4c47-8600-d41f3b161269.png)
