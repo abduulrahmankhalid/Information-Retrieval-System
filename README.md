@@ -1,5 +1,5 @@
 # Information-Retrieval-System
-## Information Retrieval with Positional Index and Phrase Queries ,Ranked Cosine Similarity 
+## Information Retrieval with Positional Index and Phrase Queries ,Ranked by Cosine Similarity 
 #### This repository is a part of course work for IS 313 Data storage and retrieval - Fall semester 2022-2023 - FCAI-HU
 ### First part :
 
