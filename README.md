@@ -1,6 +1,6 @@
 # Information-Retreival-System
 ## Information Retreival with Positional Index and Phrase Queries ,Ranked Cosine Similarity 
-
+#### This repository is a part of course work for IS 313 Data storage and retrieval - Fall semester 2022-2023 - FCAI-HU
 ### First part :
 
 1 . Apply tokenization
